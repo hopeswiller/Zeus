@@ -30,7 +30,7 @@ This project was primarily developed with University of Ghana as case study. It 
 ## Setup
 
 Setup is way easier.
-A Dockererised version will be added later
+A Dockerised version will be added later
 
 - #### Manual
 
