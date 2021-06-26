@@ -1,5 +1,5 @@
 # Zeus
-> A Student Management Information System Built with Visual Basic (VB) and Bunifu Framework
+> A Student Management Information System Built with Visual Basic.Net (VB) and Bunifu UI Framework
 
 
 ## Table of contents
