@@ -62,6 +62,6 @@ TODOs:
 
 
 ## Status
-- Started : 2017
+- Started  : 2017 (School Project)
 - Project is: _in progress_
 
