@@ -23,7 +23,7 @@ This project was primarily developed with University of Ghana as case study. It 
 
 ## Technologies
 
-- Visual Basic
+- Visual Basic .Net
 - Bunifu Framework UI - version 1.5.3 
     - Read more here : https://bunifuframework.com/
 
